@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Check first box
+- [ ] Check Second box
+- [ ] Check third box
